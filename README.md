@@ -24,6 +24,6 @@ Welcome to the Project Name README. This document contains information about the
 
 ## Project Overview
 
-Here we would dive into the project overview, features, and usage instructions. Remember to keep your code well-commented and your commits meaningful!
+This is just a test run ,the icons are pretty cool
 
 
