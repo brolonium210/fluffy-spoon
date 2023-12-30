@@ -56,3 +56,6 @@ This is just a test run ,the icons are pretty cool
 
 *End of Report*
 
+<span style="color:#1A1A1A;">This is a line of text in Jet color.</span>
+
+
