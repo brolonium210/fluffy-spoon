@@ -26,8 +26,4 @@ Welcome to the Project Name README. This document contains information about the
 
 Here we would dive into the project overview, features, and usage instructions. Remember to keep your code well-commented and your commits meaningful!
 
-## Contribution
 
-To contribute to this repository, please send us a pull request with your proposed changes. Ensure to accompany your pull request with a detailed explanation of what the changes entail.
-
-Thank you for visiting our project!
