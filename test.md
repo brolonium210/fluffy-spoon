@@ -3,7 +3,7 @@
 An engineer designs a projectile that follows the path described by $$y = -5x^2 + 30x + 25$$, where \(y\) is the height in meters and \(x\) is the horizontal distance in meters. Find the maximum height reached by the projectile.
 
 4. **Algebraic Manipulation:**
-Simplify the expression: \(\frac{3x^2 - 2x + 5}{x^2 + x - 6} \cdot \frac{x^2 - 9}{2x^2 - 3x - 2}\).
+Simplify the expression: $$\(\frac{3x^2 - 2x + 5}{x^2 + x - 6} \cdot \frac{x^2 - 9}{2x^2 - 3x - 2}\)$$.
 
 5. **Engineering Context - Beam Stress:**
 The stress, \(\sigma\), in a beam under uniform loading is given by \(\sigma = \frac{My}{I}\), where \(M\) is the moment, \(y\) is the distance from the neutral axis, and \(I\) is the moment of inertia. Solve for \(y\) if \(\sigma = 120\) MPa, \(M = 300\) Nm, and \(I = 600\) cm\(^4\).
